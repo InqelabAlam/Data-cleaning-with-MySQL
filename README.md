@@ -1,6 +1,44 @@
-# Data-cleaning-with-MySQL
-Hello everybody. Checkout my data cleaning project with MySQL. 
-Here I showcase the codes required to properly clean data to make it useable
-by detecting and correcting inaccurate, incomplete, duplicate or irrelevant data from a dataset.
-Cleaning the data is the primary and most important step in data analysis.
-This makes sure the data does not give us misleading results.
+# 🧹 Data Cleaning with MySQL
+
+Hello everyone! This is my first data cleaning project using **MySQL**. In this project, I demonstrate the essential steps involved in cleaning a raw dataset to make it analysis-ready.
+
+## 🗂️ Project Overview
+Data cleaning is a foundational step in the data analysis process. Inaccurate or messy data can lead to misleading insights, so it's important to detect and correct issues such as:
+- Duplicates
+- Null or missing values
+- Inconsistent formatting
+- Incorrect data types
+
+This project focuses on cleaning a dataset containing company layoff data using MySQL queries.
+
+## 🧠 Objectives
+- Understand and practice data cleaning techniques using SQL
+- Apply transformations to improve data quality
+- Prepare the dataset for further analysis or visualization
+
+## 🛠️ Skills & Tools Used
+- SQL (MySQL)
+- Subqueries
+- CTEs (Common Table Expressions)
+- Data type conversion
+- Handling null values
+- Removing duplicates
+
+## 🔍 Key Cleaning Steps
+1. Removed duplicate records
+2. Handled missing and null values
+3. Standardized column formats (e.g., dates, text)
+4. Fixed inconsistent company names
+5. Changed data types for consistency
+
+## 📁 Files Included
+- `import.sql` – script to load the raw data
+- `cleaning_steps.sql` – contains all the cleaning queries
+- `final_cleaned_output.sql` – final version of the cleaned data
+
+## ✅ Outcome
+The cleaned dataset is now consistent, complete, and ready for further analysis, dashboard creation, or reporting.
+
+---
+
+Thanks for checking out my project! 😊
