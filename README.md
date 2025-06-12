@@ -31,11 +31,6 @@ This project focuses on cleaning a dataset containing company layoff data using 
 4. Fixed inconsistent company names
 5. Changed data types for consistency
 
-## 📁 Files Included
-- `import.sql` – script to load the raw data
-- `cleaning_steps.sql` – contains all the cleaning queries
-- `final_cleaned_output.sql` – final version of the cleaned data
-
 ## ✅ Outcome
 The cleaned dataset is now consistent, complete, and ready for further analysis, dashboard creation, or reporting.
 
